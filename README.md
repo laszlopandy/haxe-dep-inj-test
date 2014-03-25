@@ -38,4 +38,4 @@ Simply pass in the name of the class which you want to be used instead. It will 
 var inj = new Injector([MockHeater]);
 ```
 See [the code][1] for details.
-[1]: https://github.com/laszlopandy/haxe-dep-inj-test/blob/master/Test.hx#L90
+[1]: https://github.com/laszlopandy/haxe-dep-inj-test/blob/master/Test.hx#L46
